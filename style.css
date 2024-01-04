@@ -86,34 +86,37 @@ display: none;
 .weather-card{
  width: 250px;
 height: 170px;
-  padding: 20px;
+  padding: 20px 20px 10px;
   color: #fff;
-  background-image: linear-gradient(to right,#5e3ebf,#4d31a4);
   border-radius: 20px;
-  box-shadow: 1px 4px 4px 0px rgba(0, 0, 0, 0.211) ;
   position: relative;
   display: flex;
+  justify-content: end;
   flex-direction: column;
-  gap: 5px;
- 
+
 }
 .weather-card  img{
   width: 80px;
   height: 80px;
   position: absolute;
-  top: -30px;
-  right: 30px;
+  top: 33px;
+  right: 20px;
+  z-index: 10;
 }
 .weather-card  .temp{
   color: #FFF;
-  font-size: 35px;
+  font-size: 28px;
+  line-height: 32px;
   font-weight: 400;
-
+  position: relative;
+  z-index: 10;
 }
 
 .HL-temp{
   font-size: 14px;
   color: #9f8dd6;
+  position: relative;
+  z-index: 10;
 }
 .city-name{
   display: flex;
@@ -124,14 +127,25 @@ height: 170px;
 .city-name h3{
   font-size: 18px;
   font-weight: 400;
+  white-space: nowrap;
+  position: relative;
+  z-index: 10;
 
 }
 .city-name p{
   font-size: 14px;
   font-weight: 400;
   text-align: center;
+  position: relative;
+  z-index: 10;
 }
+.img-bg{
+  width: 250px;
+  position: absolute;
+  bottom: -22px;
+  left: 0px;
 
+}
 @media screen and (max-width:600px){
   .weather-top > h1{
     font-size: 30px;
