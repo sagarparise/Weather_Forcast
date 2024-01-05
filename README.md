@@ -11,15 +11,14 @@ Welcome to the Weather App project, your go-to application for checking weather 
 Explore the Weather App with our live demo: [Weather App Demo](https://your-weather-app-demo-url.com)
 
 ## Screenshots
-![Weather App Screenshot 1](URL_to_image_1)
-![Weather App Screenshot 2](URL_to_image_2)
-![Weather App Screenshot 3](URL_to_image_3)
+![Screenshot (117)](https://github.com/sagarparise/Weather_Forcast/assets/141607123/c520223f-d423-4b89-b182-cbb5640e16f7)
+![Screenshot (116)](https://github.com/sagarparise/Weather_Forcast/assets/141607123/9704c9a9-4f49-4496-a911-939c59886a40)
 
 ## Getting Started
 To start using the Weather App, follow these simple steps:
 1. **Clone the repository:**
     ```
-    git clone https://github.com/your-username/WeatherApp.git
+   https://github.com/sagarparise/Weather_Forcast
     ```
 2. **Navigate to the project directory:**
     ```
@@ -41,7 +40,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 Special thanks to [Weather Service Provider] for providing accurate weather data and inspiring this project.
 
 ## Follow me on LinkedIn
-Connect with me on LinkedIn for more updates: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+Connect with me on LinkedIn for more updates: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/sagar-parise-1b68b21a3/)https://www.linkedin.com/in/sagar-parise-1b68b21a3/)
 
 Happy coding!
 
