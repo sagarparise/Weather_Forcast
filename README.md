@@ -40,7 +40,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 Special thanks to [Weather Service Provider] for providing accurate weather data and inspiring this project.
 
 ## Follow me on LinkedIn
-Connect with me on LinkedIn for more updates: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/sagar-parise-1b68b21a3/)https://www.linkedin.com/in/sagar-parise-1b68b21a3/)
+Connect with me on LinkedIn for more updates: [Your LinkedIn Profile](https://www.linkedin.com/in/sagar-parise-1b68b21a3/)https://www.linkedin.com/in/sagar-parise-1b68b21a3/)
 
 Happy coding!
 
