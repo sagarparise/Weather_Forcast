@@ -18,7 +18,7 @@ Explore the Weather App with our live demo: [Weather App Demo](https://your-weat
 To start using the Weather App, follow these simple steps:
 1. **Clone the repository:**
     ```
-   https://github.com/sagarparise/Weather_Forcast
+   https://github.com/sagarparise/infotrixs
     ```
 2. **Navigate to the project directory:**
     ```
