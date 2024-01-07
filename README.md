@@ -8,7 +8,7 @@ Welcome to the Weather App project, your go-to application for checking weather 
 - **Responsive Design:** Experience a seamless and visually appealing design across various devices.
 
 ## Live Demo
-Explore the Weather App with our live demo: [Weather App Demo](https://your-weather-app-demo-url.com)
+Explore the Weather App with our live demo: [Weather App Demo](https://sagarparise.github.io/infotrixs/)
 
 ## Screenshots
 ![Screenshot (117)](https://github.com/sagarparise/Weather_Forcast/assets/141607123/c520223f-d423-4b89-b182-cbb5640e16f7)
